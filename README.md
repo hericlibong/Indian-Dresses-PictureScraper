@@ -2,7 +2,7 @@
 
 Using Scrapy framework to scrape data to download pictures women dresses on indian Ajio website 
 
-![image]('images/Capture d’écran 2023-06-01 à 07.50.22.png')
+![image]('images/pix.png')
 
 ```shell
 python3 -m venv venv
